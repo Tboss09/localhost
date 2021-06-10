@@ -161,4 +161,4 @@ http://localhost:3000/
 
 in your Phone's Browser (_Chrome Canary_)
 
-![alt text](screen.gif 'Snapshot Of Localhost on browser')
+![alt text](./screen.gif 'Snapshot Of Localhost on browser')
